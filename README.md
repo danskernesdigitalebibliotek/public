@@ -9,14 +9,14 @@ Public files
 -->
 
 
-<img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/CMScontent_wrapper.jpg">
+## CMScontent_wrapper <img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/CMScontent_wrapper.jpg">
 
-<img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/DDB_infrastruktur_niveau0.jpg"><br>
+## DDB_infrastruktur_niveau0 <img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/DDB_infrastruktur_niveau0.jpg"><br>
 
-<img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/LibraryOrgStructure.jpg">
+## LibraryOrgStructure <img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/LibraryOrgStructure.jpg">
 
-<img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/OpenPlatform.holdings.jpg">
+## OpenPlatform.holdings <img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/OpenPlatform.holdings.jpg">
 
-<img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/OpenPlatform.jpg">
+## OpenPlatform <img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/OpenPlatform.jpg">
 
-<img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/aws.jpg">
+
