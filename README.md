@@ -1,19 +1,9 @@
 # public
 Public files
 
-<!--
-<img src="https://rawgit.com/danskernesdigitalebibliotek/public/master/DDB_infrastruktur_niveau0.svg">
----
-<img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/DDB_infrastruktur_niveau0.jpg">
--->
+## routeLocal2Central - Datavej klient til Danbib brønd ![routeLocal2Central.jpg](routeLocal2Central.jpg)
 
-##routeLocal2Central - Datavej klient til Danbib brønd:
-<img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/routeLocal2Central.jpg">
----
-![routeLocal2Central.jpg](routeLocal2Central.jpg)
-
-##CoverServiceArchitecture - MoreInfo incl. hasCoverIndex:
-![CoverServiceArchitecture](CoverServiceArchitecture.2018.jpg)
+## CoverServiceArchitecture - MoreInfo incl. hasCoverIndex ![CoverServiceArchitecture](CoverServiceArchitecture.2018.jpg)
 
 ## CMScontent_wrapper <img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/CMScontent_wrapper.jpg">
 
@@ -26,3 +16,8 @@ Public files
 ## OpenPlatform <img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/OpenPlatform.jpg">
 
 
+<!--
+<img src="https://rawgit.com/danskernesdigitalebibliotek/public/master/DDB_infrastruktur_niveau0.svg">
+---
+<img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/DDB_infrastruktur_niveau0.jpg">
+-->
