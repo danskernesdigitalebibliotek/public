@@ -8,7 +8,9 @@ Public files
 -->
 
 ##routeLocal2Central - Datavej klient til Danbib brønd:
-![routeLocal2Central](routeLocal2Central.jpg)
+<img src="https://raw.githubusercontent.com/danskernesdigitalebibliotek/public/master/routeLocal2Central.jpg">
+---
+![routeLocal2Central.jpg](routeLocal2Central.jpg)
 
 ##CoverServiceArchitecture - MoreInfo incl. hasCoverIndex:
 ![CoverServiceArchitecture](CoverServiceArchitecture.2018.jpg)
